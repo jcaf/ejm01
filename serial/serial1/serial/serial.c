@@ -1,3 +1,4 @@
+//tested
 #include <avr/io.h>
 #include "serial/serial.h"
 
