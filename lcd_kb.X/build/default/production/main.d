@@ -1,0 +1,1 @@
+ build/default/production/main.d  build/default/production/main.p1:  main.c lcdan/lcdan_aux.h include_utils/defgrl.h lcdan/lcdan.h

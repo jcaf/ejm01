@@ -1,0 +1,25 @@
+_lcdan_write_cmd: CODE, 2726 0 26
+_lcdan_test_busy: CODE, 2288 0 94
+__stringdata: SMALLCONST, 1547 0 3
+_lcdan_set_command_mode: CODE, 2848 0 8
+_lcdan_set_controlpins_and_datapins_outputs: CODE, 2774 0 20
+_lcdan_print_string: CODE, 2590 0 42
+_lcdan_set_datapins_outputs: CODE, 2794 0 14
+_dpowers: SMALLCONST, 1537 0 10
+_main: CODE, 2190 0 98
+_lcdan_set_write_mode: CODE, 2856 0 8
+_lcdan_set_and_latch_8bits: CODE, 2752 0 22
+__initialization: CODE, 2822 0 0
+___lwdiv: CODE, 2382 0 86
+_lcdan_set_read_mode: CODE, 2840 0 8
+_lcdan_set_data_mode: CODE, 2832 0 8
+_lcdan_strobe_enable: CODE, 2672 0 28
+_lcdan_write_data: CODE, 2700 0 26
+_lcdan_set_datapins_inputs: CODE, 2808 0 14
+_sprintf: CODE, 1552 0 366
+_lcdan_set_and_latch_4bits: CODE, 2538 0 52
+_lcdan_get_data: CODE, 2072 0 118
+___lwmod: CODE, 2468 0 70
+_delay_ms: CODE, 2632 0 40
+_lcdan_init: CODE, 1918 0 154
+Total: 1315
